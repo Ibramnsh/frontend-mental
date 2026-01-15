@@ -1,4 +1,4 @@
-# 🌿 Mental Health Assistant (Flutter Frontend)
+# Mental Health Assistant (Flutter Frontend)
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0%2B-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-2.17%2B-0175C2?logo=dart)
@@ -6,7 +6,7 @@
 
 > **Aplikasi pendamping kesehatan emosional pribadi dengan konsep "Admin-less" untuk menjamin privasi mutlak pengguna.**
 
-## 📖 Tentang Proyek
+## Tentang Proyek
 
 **Mental Health Assistant** adalah aplikasi mobile berbasis Flutter yang dirancang untuk menjadi ruang aman (*safe space*) bagi pengguna. Berbeda dengan aplikasi konseling konvensional, aplikasi ini **tidak memiliki Admin manusia** yang memantau data.
 
@@ -14,7 +14,7 @@ Sebagai gantinya, aplikasi ini menggunakan **AI Companion** dan sistem pemantaua
 
 ---
 
-## ✨ Fitur Unggulan
+## Fitur Unggulan
 
 ### 1. Privasi Terjamin (Admin-less Architecture)
 Sistem autentikasi mandiri. Data jurnal dan chat hanya dapat diakses oleh pengguna. Tidak ada dashboard admin untuk mengintip data pengguna.
