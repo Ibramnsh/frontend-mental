@@ -16,44 +16,31 @@ Sebagai gantinya, aplikasi ini menggunakan **AI Companion** dan sistem pemantaua
 
 ## ✨ Fitur Unggulan
 
-### 1. 🔒 Privasi Terjamin (Admin-less Architecture)
+### 1. Privasi Terjamin (Admin-less Architecture)
 Sistem autentikasi mandiri. Data jurnal dan chat hanya dapat diakses oleh pengguna. Tidak ada dashboard admin untuk mengintip data pengguna.
 
-### 2. 🤖 AI Companion (Smart Chat)
+### 2. AI Companion (Smart Chat)
 Teman cerita cerdas yang tersedia 24/7.
 - Antarmuka *Bubble Chat* modern membedakan pesan User dan AI.
 - Riwayat percakapan tersimpan rapi per sesi.
 
-### 3. 📝 Daily Check-in & Journaling
+### 3. Daily Check-in & Journaling
 Pencatatan kondisi harian yang interaktif.
 - Input **Mood** (Slider 1-5), **Energi**, dan **Tidur**.
 - Jurnal harian dengan *prompt* otomatis untuk memancing refleksi diri.
 
-### 4. 📊 Visualisasi Data (Mood Trends)
+### 4. Visualisasi Data (Mood Trends)
 Analisis kesehatan mental jangka panjang.
 - Grafik kurva (*Curved Line Chart*) menggunakan `fl_chart`.
 - Sumbu Y dikustomisasi menggunakan **Ikon Emotikon** untuk representasi data yang intuitif.
 
-### 5. 🛠️ Wellness Tools
+### 5. Wellness Tools
 Alat pertolongan pertama psikologis.
 - **Toolbox:** Latihan pernapasan dan kontak darurat (SOS).
 - **Quiz:** Deteksi dini tingkat stres.
 
----
 
-## 📱 Tampilan Aplikasi (Screenshots)
-
-| Login & Register | Dashboard Home | Daily Check-in |
-|:---:|:---:|:---:|
-| ![Login](path/to/image_login.png) | ![Home](path/to/image_home.png) | ![Checkin](path/to/image_checkin.png) |
-| *Desain minimalis & aman* | *Sapaan personal & ringkasan* | *Slider mood interaktif* |
-
-| AI Chat Room | Mood History | Wellness Tools |
-
-
----
-
-## 🛠️ Teknologi (Tech Stack)
+## Teknologi (Tech Stack)
 
 - **Frontend:** Flutter (Dart)
 - **State Management:** Native `setState` & `FutureBuilder` (Simpel & Efisien)
